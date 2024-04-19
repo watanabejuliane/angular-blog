@@ -1,0 +1,13 @@
+
+.containter__menu-bar > ul {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.containter__menu-bar > ul > li {
+  margin-right: 20px;
+  list-style: none;
+  color: #582F0E;
+  font-weight: bold;
+}
