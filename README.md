@@ -1,4 +1,4 @@
-# Japanese Desserts - Blog
+# Japanese Desserts - Blog 🍡
 
 ## 🖥️ Descrição do projeto 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
