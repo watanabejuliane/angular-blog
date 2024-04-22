@@ -1,0 +1,42 @@
+.container__content {
+  width: 100%;
+  height: 100%vh;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.content__cover > img {
+  width: 500px;
+  max-width: 500px;
+  height: 300px;
+  max-height: 300px;
+}
+.content__cover > hr {
+  margin-bottom: 25px;
+  border-color: #A4AC86;
+}
+
+.content__title > h1{
+  color: #582F0E;
+}
+
+.content__title > hr {
+  margin-top: 25px;
+  margin-bottom: 10px;
+  border-color: #A4AC86;
+}
+
+.content__description {
+  margin-top: 15px;
+  width: 30%;
+}
+
+.content__description > p {
+  color: #7F4F24;
+  text-align: center;
+  word-break: break-word;
+}
